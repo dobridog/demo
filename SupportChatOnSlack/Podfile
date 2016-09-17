@@ -1,0 +1,9 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+workspace ‘SupportChatOnSlack.xcworkspace'
+platform :ios, '8.0'
+
+target ‘SupportChatOnSlack’ do
+    pod 'SlackTextViewController'
+    pod 'ZDCChat/API'
+end

@@ -1,0 +1,15 @@
+PODS:
+  - SlackTextViewController (1.9.3)
+  - ZDCChat/API (1.3.0.2)
+
+DEPENDENCIES:
+  - SlackTextViewController
+  - ZDCChat/API
+
+SPEC CHECKSUMS:
+  SlackTextViewController: bd2a34c188d4f7dec93cf42388f38551263fac82
+  ZDCChat: c79627976335d16bb9993ff7195ef23e201f57bb
+
+PODFILE CHECKSUM: 49562b6f453eb53991f45d54f8b3be88f2bde88a
+
+COCOAPODS: 1.0.1
