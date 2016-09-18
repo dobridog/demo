@@ -18,5 +18,5 @@ class AccountKey {
         - Find the value of the 'Account Key'
      3. Insert your account key here
     */
-    static let key = "3HDM9jtAEmsCibBmbHrjhlDZWJb0nU5r"
+    static let key = ""
 }
